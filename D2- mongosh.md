@@ -9,7 +9,7 @@ Interacting with starwars character data with mongo shell using compass
 4.  Search for eyecolour of chewbacca(numbers on eyecolour correspond to binary to return :True/False)
 5.  db.characters.findOne({"name":"Chewbacca"},{name:1,eye_color:1})
 6.  db.characters.findOne({"name":"Chewbacca"},{name:true,eye_color:true,\_id:0})
-7.  <img src="../../_resources/5d9d741ab4c8746e5a9c19c594efbc11.png" alt="5d9d741ab4c8746e5a9c19c594efbc11.png" width="557" height="436" class="jop-noMdConv">
+7.  <img src="images/8f7935f85f5844b38a69c25875af456c.png" alt="8f7935f85f5844b38a69c25875af456c.png" width="557" height="436" class="jop-noMdConv">
 
 &nbsp;
 
