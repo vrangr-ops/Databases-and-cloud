@@ -91,6 +91,5 @@ adds prefixes to simulate file strucure/hiaracy
 
 ![95cf53be9b6d59cfedc300c49830b489.png](images/95cf53be9b6d59cfedc300c49830b489.png)
 
-Luke Fairbrass  
-lfairbrass@spartaeducation.com
+
 
