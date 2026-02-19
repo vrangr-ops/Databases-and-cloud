@@ -1,8 +1,8 @@
 **Deployment models of cloud**  
-![41b25c6277dd5e77f1a39832b6f2749e.png](../../_resources/41b25c6277dd5e77f1a39832b6f2749e.png)
+![41b25c6277dd5e77f1a39832b6f2749e.png](images/41b25c6277dd5e77f1a39832b6f2749e.png)
 
 **Types of cloud computing**  
-![211c3a82eabdd0d4b6b621a48602d170.png](../../_resources/211c3a82eabdd0d4b6b621a48602d170.png)
+![211c3a82eabdd0d4b6b621a48602d170.png](images/211c3a82eabdd0d4b6b621a48602d170.png)
 
 * * *
 
@@ -86,14 +86,11 @@ Amazon Simple Storage Service (S3), buckets are the fundamental containers used 
 - **Media Hosting**: Storing and distributing images, videos, and music files for applications.
 
 S3 file structure  
-![bf79f93f6f73c62fa7992bc39f4720f5.png](../../_resources/bf79f93f6f73c62fa7992bc39f4720f5.png)  
+![bf79f93f6f73c62fa7992bc39f4720f5.png](images/bf79f93f6f73c62fa7992bc39f4720f5.png)  
 adds prefixes to simulate file strucure/hiaracy
 
-![95cf53be9b6d59cfedc300c49830b489.png](../../_resources/95cf53be9b6d59cfedc300c49830b489.png)
+![95cf53be9b6d59cfedc300c49830b489.png](images/95cf53be9b6d59cfedc300c49830b489.png)
 
 Luke Fairbrass  
 lfairbrass@spartaeducation.com
 
-fish-market-mon.csv  
-fish-market-tues.csv  
-fish-market.csv
