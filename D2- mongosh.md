@@ -57,9 +57,9 @@ Interacting with starwars character data with mongo shell using compass
 
 **string values to integers:**
 
-converting string values to integers is relatively simple but "unknown" values of height will be tuned into "null" integers
+Converting string values to integers is relatively simple but "unknown" values of height will be tuned into "null" integers.
 
-![4d15ca50391e6f1c0c673a8049772bfa.png](../../_resources/4d15ca50391e6f1c0c673a8049772bfa.png)
+![4d15ca50391e6f1c0c673a8049772bfa.png](images/9e759822ddcd43aebd10f52ab244411a.png)
 
 1.  Command below removed unknown heights as they were set to null
     
@@ -153,7 +153,7 @@ Aggregation is is doing one logical operation then applying another operations u
 
 \])
 
-5.![7cbf43759cd010ee52c8214fc3d7fd5f.png](../../_resources/7cbf43759cd010ee52c8214fc3d7fd5f.png)
+5.![7cbf43759cd010ee52c8214fc3d7fd5f.png](images/7cbf43759cd010ee52c8214fc3d7fd5f.png)
 
 6\. search for height of humans across homeworlds
 
