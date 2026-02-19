@@ -6,7 +6,7 @@ A big part of MongoDB’s appeal is its simplicity and developer focus. For exam
 
 MongoDB saves data in JSON documents that make it relatively easy to use stored data—whether it’s structured, unstructured, or semistructured—for different kinds of applications. MongoDB’s flexible data model allows developers to store unstructured data while offering indexing support for faster file access and replication for data protection and availability. That means developers can design and build sophisticated applications using MongoDB.
 
-![a8c6badd4266ba448153ed6fb7b414e1.png](../../_resources/a8c6badd4266ba448153ed6fb7b414e1.png)
+![a8c6badd4266ba448153ed6fb7b414e1.png](images/a8c6badd4266ba448153ed6fb7b414e1.png)
 
 # "embedding" vs "referencing"
 
